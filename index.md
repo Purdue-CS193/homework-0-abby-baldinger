@@ -36,7 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# Test
-- **Hello**
-_Hello_
+# Abby Baldinger's First CS193 Homework
+- CS193 is a great way to meet other people in CS
+- This class will help me to succeed in future classes!
+- There are lots of great people in this class
+- CS193 is an amazing class!
 
